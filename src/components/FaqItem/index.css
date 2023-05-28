@@ -1,0 +1,27 @@
+/* Write your code here. */
+.list-item {
+  border-radius: 5px;
+  border: 1px solid #d7dae6;
+  margin-bottom: 10px;
+  width: 80%;
+  padding: 10px;
+}
+.question-container {
+  display: flex;
+  justify-content: space-between;
+}
+.question {
+  color: #52606d;
+  font-size: 20px;
+}
+.answer {
+  color: #9aa5b1;
+}
+.line-break {
+  color: #e4e7eb;
+}
+.toggle-button {
+  background-color: transparent;
+  border: none;
+  outline: none;
+}
